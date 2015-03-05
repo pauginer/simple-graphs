@@ -1,0 +1,12 @@
+{
+  "cols": [
+    {"id": "D", "label": "Date", "type":"date"},
+    {"id": "ca", "label": "Danish", "type":"number"},
+    {"id": "es", "label": "English", "type":"number"}
+  ],
+  "rows": [
+    {"c":[{"v": "Date(2015,03,01)"}, {"v": 0}, {"v": 0}]},
+    {"c":[{"v": "Date(2015,03,02)"}, {"v": 5}, {"v": 2}]},
+    {"c":[{"v": "Date(2015,03,03)"}, {"v": 12}, {"v": 22}]}
+  ]
+}
