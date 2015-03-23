@@ -5,6 +5,7 @@ google.setOnLoadCallback(function() {
 	var options = {
     	width: 1000,
     	height: 563,
+		explorer: {},
     	hAxis: {
   			title: 'Time'
     	},
